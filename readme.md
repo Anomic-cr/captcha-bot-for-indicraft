@@ -1,15 +1,3 @@
-# Discaptcha
-
-![alt text](https://github.com/ahoys/discaptcha/blob/master/assets/avatar_sm.png 'Discaptcha')
-
-**Version 2 now released!**
-
-A standalone bot built against "join, spam & leave" type of spam bots that are very common in Discord.
-
-The solution this bot provides is basically a Discord-suitable captcha. By default the server is set to not allow speaking without some specific role. Discaptcha bot then automatically approaches new clients and one-by-one verifies that they aren't spam bots, giving them the required role for speaking. It's that simple.
-
-This bot is standalone, meaning that you are required to have a server machine where the bot can live and run.
-
 ## Installation
 
 It takes about 5-15 mins to install the bot.
